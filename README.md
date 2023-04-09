@@ -14,6 +14,8 @@ Arquitetura proposta
 Você deverá projetar uma ULA com 4 bits para um dado A, 4 bits para um dado B e 4 bits para a instrução
 desejada. O funcionamento é similar à ULA anteriormente estudada.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 What should be done
 
 In this exercise you must create 2 programs. One on the external hardware (Arduino) and the other on the PC, which will be
