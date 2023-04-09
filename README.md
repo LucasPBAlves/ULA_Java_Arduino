@@ -1,6 +1,6 @@
 # ULA_Java_Arduino
-4 bits ULA
-
+4 bits ALU
+ULA 4 bits
 
 O que deverá ser feito
 Neste exercício você deverá criar 2 programas. Um no hardware externo (Arduino) e outro no PC, que será a
